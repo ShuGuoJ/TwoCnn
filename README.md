@@ -116,3 +116,6 @@ This is a reproduction of *Learning and Transferring Deep Joint Spectral-Spatial
 ![img](img/KSC_sample_per_class_50_twoCnn.svg)
 ![img](img/KSC_sample_per_class_100_twoCnn.svg)
 ## Runing the code
+预训练模型 `python train.py --name xx --epoch xx --lr xx`
+
+Fine-tuning `python CrossTrain.py --name xx --epoch xx --lr xx` 
