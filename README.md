@@ -9,7 +9,7 @@ This is a reproduction of *Learning and Transferring Deep Joint Spectral-Spatial
 * scipy
 * visdom
 ## Experiment
-模型分别在PaviaU，Salinas和KSC这三个基准数据集上进行测试。实验总共分为三组，分别为每类样本量为10，每类样本量为50和每类样本量为100。为了减少误差，每组实验分别进行10次，最终的准确率取10次实验的均值。
+模型分别在PaviaU，Salinas和KSC这三个基准数据集上进行测试。实验总共分为三组，分别为每类样本量为10，每类样本量为50和每类样本量为100。为了减少误差，每组实验分别进行10次，最终的准确率取10次实验的均值。源域与目标域对分别为：Pavia-PaviaU, Indian pines-Salinas, Indian pines-KSC。
 
 在PaviaU数据集上的准确率（%）如下表所示：
 
