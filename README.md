@@ -42,6 +42,10 @@ This is a reproduction of *Learning and Transferring Deep Joint Spectral-Spatial
 
 学习曲线如下所示：
 
+![img](img/PaviaU_sample_per_class_10_twoCnn.svg)
+![img](img/PaviaU_sample_per_class_50_twoCnn.svg)
+![img](img/PaviaU_sample_per_class_100_twoCnn.svg)
+
 在Salinas数据集上的准确率（%）如下表所示：
 
 <table>
@@ -73,6 +77,10 @@ This is a reproduction of *Learning and Transferring Deep Joint Spectral-Spatial
 
 学习曲线如下所示：
 
+![img](img/Salinas_sample_per_class_10_twoCnn.svg)
+![img](img/Salinas_sample_per_class_50_twoCnn.svg)
+![img](img/Salinas_sample_per_class_100_twoCnn.svg)
+
 在KSC数据集上的准确率（%）如下表所示：
 
 <table>
@@ -103,4 +111,8 @@ This is a reproduction of *Learning and Transferring Deep Joint Spectral-Spatial
 </table>
 
 学习曲线如下所示：
+
+![img](img/KSC_sample_per_class_10_twoCnn.svg)
+![img](img/KSC_sample_per_class_50_twoCnn.svg)
+![img](img/KSC_sample_per_class_100_twoCnn.svg)
 ## Runing the code
